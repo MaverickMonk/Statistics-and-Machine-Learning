@@ -1,1 +1,1 @@
-# Machine-Learning-Methods
+# Statistics and Machine Learning
